@@ -1,28 +1,63 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Akberen
-===============================================================================================================================
-
-I'm a beginner IOS developer
-----------------------------
-
-* 🌍  I'm based in Almaty
-* ✉️  You can contact me at [uakberen@gmail.com](mailto:uakberen@gmail.com)
-* 🧠  I'm learning courses from nFactorial School
-
-<a href="https://www.github.com/Akberen007" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Akberen007?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-### Skills
+# <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDIzZDIzZDIzZDIzZDIzZDIzZDIzZDIzZDIzZDIzZDIzZDIzZDIz/h4Og5xyfP4BCE/giphy.gif" width="30"> Привет, я Акберен!
 
 <p align="left">
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/swift-colored.svg" width="36" height="36" alt="Swift" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://apple.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored.svg" width="36" height="36" alt="MacOS" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+<img src="https://img.shields.io/badge/iOS_Developer-EF4444?style=for-the-badge&logo=swift&logoColor=white" />
+<img src="https://img.shields.io/badge/Data_Analyst-FACC15?style=for-the-badge&logo=python&logoColor=black" />
+<img src="https://img.shields.io/badge/Almaty_🇰🇿-0891B2?style=for-the-badge" />
 </p>
 
-### Socials
+---
 
-<p align="left"> <a href="https://discord.com/users/akberen_53764" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/Akberen007" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/_uae02_" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/akberen-ualikhan-6648602b2/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
-### Badges
+### 👨‍💻 Обо мне
 
-<b>My GitHub Stats</b>
+Я **iOS-разработчик** и **Data-аналитик**. Мой подход к разработке сочетает в себе создание качественных мобильных интерфейсов и умение работать с данными для принятия обоснованных решений. 
 
-<a href="http://www.github.com/Akberen007"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Akberen007&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+Имею бэкграунд в профессиональном спорте: футбол научил меня дисциплине, работе на результат и командному духу.
 
-<a href="http://www.github.com/Akberen007"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Akberen007&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+* 🍎 Основной стек: **Swift, SwiftUI, UIKit**.
+* 📊 Аналитика: работа с данными, построение отчетов и поиск инсайтов.
+* 🎓 Прохожу обучение в **nFactorial School**.
+* ⚽️ В прошлом: профессиональный футболист (Академия "Кайрата", Вторая лига РК).
+
+---
+
+### 🛠 Стек технологий
+
+#### iOS Development
+<p align="left"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xcode/xcode-original.svg" alt="xcode" width="40" height="40"/> 
+</p>
+
+#### Data Analytics & Backend
+<p align="left"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
+</p>
+
+#### Tools
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> 
+</p>
+
+---
+
+### 📈 Статистика и активность
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Akberen007&show_icons=true&theme=dark&hide_border=true&bg_color=1c1917&title_color=0891b2&icon_color=0891b2&text_color=ffffff" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akberen007&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width="48%" />
+</p>
+
+---
+
+### 📫 Связаться со мной
+
+<p align="left">
+<a href="https://www.linkedin.com/in/akberen-ualikhan-6648602b2/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:uakberen@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="http://www.instagram.com/_uae02_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+</p>
