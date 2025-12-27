@@ -1,60 +1,51 @@
-# <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDIzZDIzZDIzZDIzZDIzZDIzZDIzZDIzZDIzZDIzZDIzZDIzZDIz/h4Og5xyfP4BCE/giphy.gif" width="30"> Привет, я Акберен!
+# <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDIzZDIzZDIzZDIzZDIzZDIzZDIzZDIzZDIzZDIzZDIzZDIzZDIz/h4Og5xyfP4BCE/giphy.gif" width="30"> Akberen | Data Analyst
 
 <p align="left">
-<img src="https://img.shields.io/badge/iOS_Developer-EF4444?style=for-the-badge&logo=swift&logoColor=white" />
-<img src="https://img.shields.io/badge/Data_Analyst-FACC15?style=for-the-badge&logo=python&logoColor=black" />
-<img src="https://img.shields.io/badge/Almaty_🇰🇿-0891B2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Data_Analytics-FACC15?style=for-the-badge&logo=python&logoColor=black" />
+<img src="https://img.shields.io/badge/SQL_&_Databases-0891B2?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/iOS_Background-EF4444?style=for-the-badge&logo=swift&logoColor=white" />
 </p>
 
 ---
 
-### 👨‍💻 Обо мне
+### 📊 Обо мне
+Я специализируюсь на **анализе данных** и поиске инсайтов, которые помогают бизнесу расти. Благодаря опыту в **iOS-разработке**, я обладаю глубоким пониманием технической стороны продукта, что позволяет мне эффективно работать с продуктовой аналитикой и мобильными метриками.
 
-Я **iOS-разработчик** и **Data-аналитик**. Мой подход к разработке сочетает в себе создание качественных мобильных интерфейсов и умение работать с данными для принятия обоснованных решений. 
-
-Имею бэкграунд в профессиональном спорте: футбол научил меня дисциплине, работе на результат и командному духу.
-
-* 🍎 Основной стек: **Swift, SwiftUI, UIKit**.
-* 📊 Аналитика: работа с данными, построение отчетов и поиск инсайтов.
-* 🎓 Прохожу обучение в **nFactorial School**.
-* ⚽️ В прошлом: профессиональный футболист (Академия "Кайрата", Вторая лига РК).
+* 🛠 Основной фокус: **SQL, Python, продуктовая аналитика**.
+* 📱 Техническая база: Опыт разработки на **Swift (UIKit/SwiftUI)**.
+* 🧠 Постоянно развиваюсь: Обучаюсь в **nFactorial School**.
+* ⚽️ Личные качества: Дисциплина и воля к победе (экс-игрок академии "Кайрата" и Второй лиги РК).
 
 ---
 
-### 🛠 Стек технологий
+### 🛠 Навыки и инструменты
 
-#### iOS Development
+**Data Analysis & Backend**
+<p align="left"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+</p>
+
+**iOS Engineering (Technical Background)**
 <p align="left"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xcode/xcode-original.svg" alt="xcode" width="40" height="40"/> 
 </p>
 
-#### Data Analytics & Backend
-<p align="left"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-</p>
-
-#### Tools
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> 
-</p>
-
 ---
 
-### 📈 Статистика и активность
+### 📈 Статистика активности
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akberen007&layout=compact&theme=dark&hide_border=true&bg_color=1c1917&title_color=0891b2&text_color=ffffff" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api?username=Akberen007&show_icons=true&theme=dark&hide_border=true&bg_color=1c1917&title_color=0891b2&icon_color=0891b2&text_color=ffffff" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akberen007&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width="48%" />
 </p>
 
 ---
 
-### 📫 Связаться со мной
+### 📫 Контакты для связи
 
 <p align="left">
 <a href="https://www.linkedin.com/in/akberen-ualikhan-6648602b2/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
